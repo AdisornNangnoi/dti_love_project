@@ -1,5 +1,4 @@
 # dti_love_project
 
-![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/c88699d1-366e-40c3-b5d0-daa346a846c4)
-![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/9a6d4fc9-20de-4646-a8f9-dda7130197ef)
-![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/6ea63274-8337-48ac-a3b6-41379377ecb2)
+![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/dbca003d-7985-43da-8dc6-5a6cb62ddd50)
+![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/d8699c16-5ead-4ea4-ad2d-d4405deae4e5)
