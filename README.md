@@ -1,16 +1,5 @@
 # dti_love_project
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/c88699d1-366e-40c3-b5d0-daa346a846c4)
+![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/9a6d4fc9-20de-4646-a8f9-dda7130197ef)
+![image](https://github.com/AdisornNangnoi/dti_love_project/assets/113957028/6ea63274-8337-48ac-a3b6-41379377ecb2)
